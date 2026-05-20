@@ -1,7 +1,8 @@
 ###
 
-<p align="left">I am Ivan.<br><br>Passionate about creating useful software products. Particularly interested and specialize in AI / DL / CV. Possess knowledge and experience in startups and product development.<br>
-<br>I have 2 years of experience in IT industry and software development, possess a solid math background, and understand business. I have strong moral standards, always get things done, execute well, and excel at efficiency and productivity improvement. Inspired by technology, keen on improving the world, obsessed with innovation, product engineering and design.</p>
+<p align="left">I am Ivan.<br><br>AI Engineer with 4 years of software development experience, including 3 years building and deploying production-grade AI/ML systems. Distinctive MSc graduate in Artificial Intelligence and Machine Learning from the University of Birmingham and UAE Golden Resident. Strong technical foundation combined with product and business understanding.<br>
+<br>Hands-on experience across the full ML lifecycle: problem formulation, data preprocessing, model training, evaluation, and deployment. Worked on computer vision, natural language processing, and agentic AI systems using modern deep learning frameworks.
+Proficient in Python-based ML/DL stacks, modern MLOps tooling and AWS cloud services, with experience delivering production-ready solutions in cross-functional environments. Interested in building scalable, high-load AI/ML systems.</p>
 
 ###
 
