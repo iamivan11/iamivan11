@@ -8,13 +8,13 @@ Proficient in Python-based ML/DL stacks, modern MLOps tooling and AWS cloud serv
 
 <p align="left">📚 I love learning fast and acquiring new skills, solving problems, and training deep neural nets<br><br>✨ Creating bugs since 2020</p>
 
-<p align="left">Skilled in:
-Programming Languages: Python, SQL, Bash
-Data Analysis & Visualization: Pandas, NumPy, Seaborn, Matplotlib
-Machine Learning: Scikit-learn, XGBoost, CatBoost, Optuna
-Deep Learning: PyTorch, TensorFlow, Keras, JAX, Hugging Face Transformers, OpenAI API
-Agentic AI: LangChain, LangGraph, LangSmith, CrewAI
-Computer Vision: OpenCV, Scikit-image, TorchVision, Ultralytics
-MLOps: Airflow, MLflow, Weights&Biases
-Frameworks & APIs: FastAPI, Streamlit, Telegram Bot API
-Tools & Platforms: Linux, Docker, Git, GitLab, GitHub, PostgreSQL, Jupyter, VS Code, Jira, Confluence, Slack, AWS, Azure, Claude Code, Cursor, Codex.</p>
+<p align="left">Skilled in:</p>
+<p align="left">Programming Languages: Python, SQL, Bash</p>
+<p align="left">Data Analysis & Visualization: Pandas, NumPy, Seaborn, Matplotlib</p>
+<p align="left">Machine Learning: Scikit-learn, XGBoost, CatBoost, Optuna</p>
+<p align="left">Deep Learning: PyTorch, TensorFlow, Keras, JAX, Hugging Face Transformers, OpenAI API</p>
+<p align="left">Agentic AI: LangChain, LangGraph, LangSmith, CrewAI</p>
+<p align="left">Computer Vision: OpenCV, Scikit-image, TorchVision, Ultralytics</p>
+<p align="left">MLOps: Airflow, MLflow, Weights&Biases</p>
+<p align="left">Frameworks & APIs: FastAPI, Streamlit, Telegram Bot API</p>
+<p align="left">Tools & Platforms: Linux, Docker, Git, GitLab, GitHub, PostgreSQL, Jupyter, VS Code, Jira, Confluence, Slack, AWS, Azure, Claude Code, Cursor, Codex.</p>
