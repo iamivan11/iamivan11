@@ -1,9 +1,9 @@
 <p align="left">
-I am Ivan, an AI Engineer and MSc graduate with Distinction in Artificial Intelligence and Machine Learning from the University of Birmingham. I am also a UAE Golden Resident.
+I am Ivan, an AI Engineer, specializing in generative AI, computer vision and agentic systems. Currently residing in Dubai, UAE.
 <br><br>
-My background combines software engineering, applied machine learning, and product-oriented thinking. I have hands-on experience across the ML lifecycle: problem formulation, data preprocessing, model training, evaluation, deployment, and integration into user-facing applications.
+My background combines software engineering and testing, traditional machine learning, production AI systems and product-oriented thinking. Experienced across the whole AI/ML lifecycle: problem formulation, data collection & preprocessing, model selection / training / finetuning, evaluation, deployment with monitoring.
 <br><br>
-I have worked on computer vision, NLP, agentic AI, and RAG-based systems using modern Python-based ML/DL frameworks, MLOps tools, and production-oriented engineering practices. I am especially interested in building scalable and reliable AI systems.
+I am also a big believer in automation: in love with optimizing processes and redirecting saved time & effort where necessary.
 </p>
 
 ---
