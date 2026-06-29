@@ -3,7 +3,7 @@ I am Ivan, an AI Engineer, specializing in generative AI, computer vision and ag
 <br><br>
 My background combines software engineering and testing, traditional machine learning, production AI systems and product-oriented thinking. Experienced across the whole AI/ML lifecycle: problem formulation, data collection & preprocessing, model selection / training / finetuning, evaluation, deployment with monitoring.
 <br><br>
-I am obsessed with simplicity, leanness, and speed. I also genuinely enjoy automating and optimizing repetitive work & routine.
+I am obsessed with simplicity, leanness, and speed. I also genuinely enjoy automating and optimizing repetitive work & routine. Currently: working as an AI / ML / CV engineer, diving deep into agentic engineering & more.
 </p>
 
 ---
