@@ -10,12 +10,12 @@ I am obsessed with simplicity, leanness, and speed. I also genuinely enjoy autom
 
 ### Skills
 
-**Programming Languages:** Python, SQL, Bash  
-**Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib  
+**Programming Languages:** Python, Swift, Bash  
+**Data Analysis & Visualization:** SQL, Pandas, NumPy, Seaborn, Matplotlib  
 **Machine Learning:** scikit-learn, XGBoost, CatBoost, Optuna  
-**Deep Learning:** PyTorch, TensorFlow, Keras, JAX, Hugging Face Transformers, OpenAI API  
+**Deep Learning:** PyTorch, TensorFlow, Keras, JAX, Hugging Face Transformers, OpenAI / Anthropic APIs  
 **Agentic AI:** LangChain, LangGraph, LangSmith, CrewAI  
 **Computer Vision:** OpenCV, scikit-image, TorchVision, Ultralytics  
 **MLOps:** Airflow, MLflow, Weights & Biases  
-**Frameworks & APIs:** FastAPI, Streamlit, Telegram Bot API  
-**Tools & Platforms:** Linux, Docker, Git, GitLab, GitHub, PostgreSQL, Jupyter, VS Code, Jira, Confluence, Slack, AWS, Azure, Claude Code, Cursor, Codex
+**Frameworks & APIs:** FastAPI, Streamlit, Telegram bots 
+**Tools & Platforms:** Linux, Docker, DVC, Git, GitLab, GitHub, PostgreSQL, Jupyter, VS Code, Jira, Confluence, Slack, AWS, Azure, Claude Code, Codex, Cursor
