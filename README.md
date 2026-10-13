@@ -1,5 +1,5 @@
 <p align="left">
-I am Ivan, an AI Engineer, specializing in generative AI, computer vision and agentic systems. Currently residing in Dubai, UAE.
+I am Ivan, an AI engineer, specializing in generative AI, computer vision and agentic systems. Currently residing in Dubai, UAE.
 <br><br>
 My background combines software engineering and testing, traditional machine learning, production AI systems and product-oriented thinking. Experienced across the whole AI/ML lifecycle: problem formulation, data collection & preprocessing, model selection / training / finetuning, evaluation, deployment with monitoring.
 <br><br>
